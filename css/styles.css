@@ -4,6 +4,11 @@ img {
   float: right;
 }
 
+h3  {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
 /* body {
-  background-image: url("../img/background.jpg");
+  background-image: url("../img/background2.jpg");
 }

@@ -1,8 +1,9 @@
 img {
   width: 250px;
   height: 350px;
+  float: right;
 }
 
-h1 {
-
+/* body {
+  background-image: url("../img/background.jpg");
 }

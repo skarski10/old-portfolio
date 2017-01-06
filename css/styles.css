@@ -1,3 +1,7 @@
+/*body {
+background-image: url("../img/background2.jpg");
+}*/
+
 img {
   width: 250px;
   height: 350px;
@@ -7,8 +11,27 @@ img {
 h3  {
   text-align: center;
   margin-bottom: 25px;
+  font-family: Tahoma sans-serif;
+  font-weight: bold;
+  font-size: 28px;
 }
 
-/* body {
-  background-image: url("../img/background2.jpg");
+h4  {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 22px;
+  color: ;
+}
+
+.hobby ol ul li {
+  color: blue;
+  font-family: fantasy;
+}
+
+.jumbotron {
+  background-image: url("../img/background.jpg");
+}
+
+.intro {
+  color: #008000;
 }

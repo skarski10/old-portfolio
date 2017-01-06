@@ -14,6 +14,7 @@ h3  {
   font-family: Tahoma sans-serif;
   font-weight: bold;
   font-size: 28px;
+  border: solid black 2px;
 }
 
 h4  {
@@ -33,5 +34,20 @@ h4  {
 }
 
 .intro {
-  color: #008000;
+  color: ;
+  text-shadow: 1px 1px #FEE123;
+}
+
+.name {
+  color: #FEE123;
+  font-style: italic;
+  text-shadow: 1px 1px #000000;
+}
+
+.dl-style {
+  font-family: Arial;
+}
+
+.me {
+  text-shadow: 2px 2px #FEE123;
 }

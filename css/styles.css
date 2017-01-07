@@ -1,6 +1,7 @@
-/*body {
-background-image: url("../img/background2.jpg");
-}*/
+ body {
+  background: url("../img/background2.webp") no-repeat center center fixed;
+  background-size: cover;
+}
 
 img {
   width: 250px;
@@ -25,7 +26,7 @@ h4  {
 }
 
 .hobby ol ul li {
-  color: blue;
+  color: #008000;
   font-family: Trebuchet;
 }
 
@@ -84,13 +85,15 @@ li span:only-of-type{
   }
 
   .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default {
-    color: #fff;
+    color: #13274F;
     background-color: #CE1141;
     border-color: #13274F;
 }
 
 #hover:hover {
+  color: #CE1141;
   background-color: #13274F;
+  border-color: #CE1141;
 }
 
 #family {

@@ -74,6 +74,29 @@ li span:only-of-type{
 
 .btn {
   display: block;
-    margin: auto;
-    width: 30%;
+  margin: auto;
+  width: 30%;
+}
+
+#ref {
+  font-family: Georgia serif;
+  color: #666666;
+  }
+
+  .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default {
+    color: #fff;
+    background-color: #CE1141;
+    border-color: #13274F;
+}
+
+#hover:hover {
+  background-color: #13274F;
+}
+
+#family {
+  width: inherit;
+  height: inherit;
+  float: left;
+  border: double black 10px;
+  margin-top: 20px;
 }
